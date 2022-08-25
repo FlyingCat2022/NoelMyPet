@@ -2,7 +2,6 @@
 //  WindowChange.h
 //  Somnambulism
 //
-//  Created by 洪润孜 on 2022/8/20.
 //
 
 #ifndef WindowChange_h
